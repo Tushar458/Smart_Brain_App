@@ -40,7 +40,7 @@ You can find the project website here: [Live Site](https://tushar458.github.io/S
 ![smart-brain-ui](https://github.com/Tushar458/Smart_Brain/blob/main/Assets/Login.jpeg)
 
 ### Multi-face detection
-![smart-brain-screenshot](https://github.com/TJRelly/smart-brain/assets/94482664/182176a5-be00-4894-9d8c-01ff0979179b)
+![smart-brain-screenshot](https://github.com/Tushar458/Smart_Brain_App/blob/main/Assets/Multiple%20face%20detection.jpeg)
 
 ### UI Redesign
 ![Sign In]
