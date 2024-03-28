@@ -1,6 +1,6 @@
 # Smart Brain
 
-Visit the Live site: https://tushar458.github.io/Smart_Brain/
+Visit the Live site: https://smart-brain-frontend-five.vercel.app/
 
 [Smart Brain](https://smart-brain-frontend-five.vercel.app/) is a web app that uses the Clarifai API to locate a face in a picture. This face-recognition app uses the following technologies:
 
