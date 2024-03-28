@@ -6,8 +6,8 @@ Visit the Live site: https://tushar458.github.io/Smart_Brain/
 
 - [MERN stack](https://www.mongodb.com/mern-stack): Express JS, React JS, and Node JS
 - [Node JS](https://nodejs.org/en/): for back-end server - code posted here: [Smart-Brain-Api](https://github.com/Tushar458/Smart_Brain_Api/tree/main/smart-brain-api-main)
-- [PostresSQL](https://www.postgresql.org/): for database
-- [Render](https://render.com/): server and database hosting
+- [MongoDB-Atlas](https://cloud.mongodb.com/): for database
+- [Vercel](https://vercel.com/tushars-projects-ab02b8a5/smart-brain-api): server and database hosting
 - [Tailwind](https://tailwindcss.com/): CSS Framework for the styles
 - [React-Parallax-Tilt](https://www.npmjs.com/package/react-parallax-tilt): for tilting animation on logo
 - [Particles-BG](https://www.npmjs.com/package/particles-bg): For background animation
@@ -49,5 +49,5 @@ You can find the project website here: [Live Site](https://tushar458.github.io/S
 
 ### Website Deployed
 
-You can find the project website here: [Live Site](https://tushar458.github.io/Smart_Brain/)
+You can find the project website here: [Live Site](https://smart-brain-frontend-five.vercel.app/)
 
